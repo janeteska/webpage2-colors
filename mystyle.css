@@ -1,0 +1,49 @@
+body {
+  background: #6C12C1;
+}
+
+h1 {
+  color: #FD7EFB;
+  margin-left: 50px;
+}
+
+h1 {
+  text-shadow: 2px 2px 5px black;
+}
+
+p.double {
+  border-style: double;
+}
+
+
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background: #fff;
+}
+
+#shoe {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  background: #FD7EB2;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+#shirt {
+  background: yellow;
+}
+p {
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+#flower {
+  background: grey;
+}
